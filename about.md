@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Rif. I work at Google on probabilistic machine learning and auditory machine learing. In my spare time I enjoy meditating, cooking, computer programming, dancing, playing music, dancing, lifting weights, and indoor bouldering.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[derifatives@gmail.com](mailto:derifatives@gmail.com)
