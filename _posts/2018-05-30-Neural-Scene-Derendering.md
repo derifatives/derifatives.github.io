@@ -1,6 +1,6 @@
-  ---
+---
 layout: post
-title: Welcome!
+title: Paper Notes: Neural Scene De-Rendering
 ---
 
 ["Neural Scene De-rendering"](http://nsd.csail.mit.edu/), Wu, Tenenbaum, Kohli. CVPR 2017.
