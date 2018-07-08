@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Rif. I work at Google on probabilistic machine learning and auditory machine learing. In my spare time I enjoy meditating, cooking, computer programming, dancing, playing music, dancing, lifting weights, and indoor bouldering.
+My name is Rif. I work at Google on probabilistic machine learning and auditory machine learing. In my spare time I enjoy meditating, cooking, computer programming, math, dancing, playing music, philosophy, lifting weights, economics, and indoor bouldering.
 
 ### Contact me
 
